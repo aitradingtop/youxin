@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-bank-bank"],{dd46:function(n,o,d){"use strict";d.r(o);var a=d("828b"),i=Object(a["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);o["default"]=i.exports}}]);

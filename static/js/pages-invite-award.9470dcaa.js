@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-invite-award"],{"4e80":function(i,n,o){"use strict";o.r(n);var e=o("828b"),a=Object(e["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);n["default"]=a.exports}}]);

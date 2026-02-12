@@ -1,0 +1,22 @@
+{
+    // PWA 的名称，它将显示在设备的主屏幕、应用启动器等位置。
+    "name": "YouTrust Finance",
+    // PWA 的简短名称，当空间有限时，如在设备主屏幕上图标下方显示的名称，会优先使用短名称
+    "short_name": "YouTrust Finance",
+    // PWA 在不同设备和场景下使用的图标。可以指定多种尺寸的图标，以适应各种屏幕分辨率和设备类型 
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        }
+    ],
+    // 通常是应用的首页或主要入口点指定 PWA 启动时加载的 URL。通常是应用的首页或主要入口点
+    "start_url": "/",
+    // 有多种模式可供选择，如`fullscreen`（全屏显示）、`standalone`（类似原生应用）、`minimal-ui`（简约模式）
+    "display": "standalone",
+    // 启动时的背景颜色，在应用启动瞬间或加载过程中显示。
+    "background_color": "#ffffff",
+    // 定义 PWA 的主题颜色，它将影响浏览器的地址栏、任务栏等界面元素的颜色。
+    "theme_color": "#000000"
+}
