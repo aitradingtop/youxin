@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-yuebao-transferin"],{2945:function(n,o,e){"use strict";e.r(o);var i=e("828b"),a=Object(i["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);o["default"]=a.exports}}]);

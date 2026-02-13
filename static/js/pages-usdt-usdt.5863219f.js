@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-usdt-usdt"],{"8ce7":function(o,d,n){"use strict";n.r(d);var s=n("828b"),u=Object(s["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);d["default"]=u.exports}}]);
